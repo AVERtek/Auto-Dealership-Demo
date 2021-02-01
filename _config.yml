@@ -1,5 +1,5 @@
 #title: AVERtek # your name photo (or website title) here
-logo1: "Company Here.jpg?raw=true" # your photo (or logo) here
+logo1: "/images/Company Here.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <br><br> 
@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>PERSPECTIVE:</b><a href="https://youtu.be/bgWxVMh-QOk"</b> Click here to learn more</a> 
   <br><br>
-  <b>VIEW:</b><a href="https://youtu.be/jIfgTp9off8"</b> Click here to see what awaits you at Our Dealership</a>  <br><br>
+  <b>VIEW:</b><a href="https://youtu.be/jIfgTp9off8"</b> Click here to see what awaits you at Our Dealership</a>
   <br><br>
   <b>EXPLORE:</b><a href="https://avertek.net/contact-us"</b> Click here for our Private VIP Presentation & receive a special gift</a> 
   <br><br>
