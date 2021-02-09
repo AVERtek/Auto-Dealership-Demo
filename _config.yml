@@ -3,7 +3,7 @@ logo1: "/images/Company Here.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <br><br> 
-  ##<b>DISCOVER NEW LUXURY</b>
+  <b>DISCOVER NEW LUXURY</b>
   <br><br>
   <b>ENVISION: 3D ULTIMATE MOTORCARS</b>- Tour 3D Model Below
   <br><br> 
@@ -13,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>VIEW:</b><a href="https://www.youtube.com/watch?v=F7q56otNy1E"</b> Why Us; Click Here</a>
   <br><br>
-  <b>EXPLORE:</b><a href="https://avertek.net/contact-us"</b> Private VIP Demo & Free Gift; Click Here</a> 
+  <b>EXPLORE:</b><a href="https://avertek.net/contact-us"</b><b>VIP Demo & Free Gift</b></a> 
   <br><br>
 theme: jekyll-theme-minimal
 google_analytics: # your Google Analytics tracking ID here
